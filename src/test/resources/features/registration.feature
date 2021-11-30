@@ -24,6 +24,7 @@ Feature:
     And click on register button
     Then verify that my account text is visible
     And close the application
+  #33
 
 
 
